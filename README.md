@@ -122,4 +122,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 🙋 Author
 
-**Sai Krishna** — B.Tech Final Year, JNTU Hyderabad
+**Undinty Sai Krishna** 
